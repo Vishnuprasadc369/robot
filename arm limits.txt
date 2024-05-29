@@ -1,0 +1,6 @@
+shoulder rotate=0-180
+shoulder swing 0-115
+elbow swing=180-113
+elbow rotate 0-180;
+wrist swing 0-180
+wrist rotate 0-180
